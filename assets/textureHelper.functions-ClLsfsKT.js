@@ -1,0 +1,1 @@
+function e(e){return e===13||e===14||e===15||e===16||e===17||e===18||e===19}function t(e){switch(e){case 13:case 17:case 18:case 14:case 16:return 1;case 15:return 5;case 19:return 0}return 0}function n(e){return e===13||e===17||e===18||e===19}export{n,e as r,t};
